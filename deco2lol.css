@@ -1,0 +1,68 @@
+a{ 
+    color:white
+}
+
+a span{
+    color:white
+}
+
+
+
+
+
+body {
+    background-image: url("lolbkgd.png");
+    background-attachment: fixed;
+
+
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Gabriola';
+}
+
+
+p {
+    color: rgb(255, 255, 255);
+    font-family: 'Gabriola';
+    font-size: 28px;
+
+}
+
+h3 {
+    font-family: "Gabriola";
+    font-size: 32px;
+    color: white;
+
+}
+
+.ahri {
+    height:147px;
+    width:130px;
+    background: url("ahriii.png");
+    margin:auto;
+  }
+
+.ahri:hover {
+    cursor:pointer; 
+    background:url("ahriri.gif");
+
+}
+
+.lulu {
+    height:140px;
+    width:140px;
+    background: url("luluuu.png");
+    margin:auto;
+  }
+
+.lulu:hover {
+    cursor:pointer; 
+    background:url("lulu.gif");
+
+}
+
+
+
+
+

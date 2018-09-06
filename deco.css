@@ -1,0 +1,116 @@
+a {
+    color: white
+}
+a span{
+    color: white
+}
+body {
+    background-image: url("orig.gif");
+    background-attachment: fixed;
+ }
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Gabriola';
+    font-size: 35px;
+}
+
+
+.league-text{
+    font-size: 30px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: 'Gabriola';
+    font-size: 30px;
+
+}
+
+color {
+    color: white;
+}
+
+div.fixed {
+    position: fixed;
+    left: 80px;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:link{
+    color: white;
+
+}
+
+
+
+
+  .nav ul {
+    list-style: none;
+    background-image: "orig.gif";
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav li {
+    font-family: Gabriola;
+    font-size: 1.5em;
+    line-height: 30px;
+    height: 40px;
+    border-bottom: 1px solid rgb(240, 175, 202);
+  }
+
+  nav a {
+    text-decoration: none;
+    color: rgb(240, 175, 202);
+  }
+
+  nav a:hover {
+    background-color: rgb(255, 255, 255);
+    transition: .3s background-color;
+  }
+
+ 
+  a.active {
+    background-color: #fff;
+    color: rgb(228, 138, 255);
+  }
+
+  .nav li {
+    width: 85px;
+    border-bottom: none;
+    height: 40px;
+    line-height: 40px;
+    font-size: 1.0 em;
+  }
+
+  .nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+
+  .nav li {
+    float: left;
+  }
+
+  .nav ul {
+    overflow: auto;
+    width: 372px;
+    margin: 0 auto;
+  }
+
+
+  .nav li {
+    width: 100px;
+    border-bottom: none;
+    height: 60px;
+    line-height: 40px;
+    display: inline-block;
+    margin-left: -4px;
+  }
+
+

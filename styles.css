@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(228, 163, 217);
+}
+
+h1{
+    color: rgb(104, 25, 124);
+}
+
+.intro-text{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+#welcome-tagline{
+    color:rgb(104, 25, 124);
+    font-style:italic; 
+}

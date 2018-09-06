@@ -1,0 +1,47 @@
+a{
+    color:rgb(255, 161, 235)
+}
+
+a span{
+    color:white
+}
+
+
+
+body {
+    background-image: url("acnlbkgd.png");
+    background-color: rgb(161, 216, 195);
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Gabriola';
+}
+
+
+p {
+    color: black;
+    font-family: 'Gabriola';
+    font-size: 28px;
+
+}
+
+h3 {
+    font-family: "Gabriola";
+    font-size: 32px;
+}
+
+
+.acnlpic {
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    display: inline-block;
+}
+
+.gamelinks {
+    display: inline-block;
+    
+    
+}
+
